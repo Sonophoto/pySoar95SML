@@ -11,3 +11,7 @@ More information on Soar:
 You can get the entire system here:
       https://github.com/SoarGroup
 
+Mailing List Archives:
+      https://sourceforge.net/p/soar/mailman/soar-help/
+
+
